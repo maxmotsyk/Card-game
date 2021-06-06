@@ -1,0 +1,13 @@
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.exe
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.deps.json
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.runtimeconfig.json
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.runtimeconfig.dev.json
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.dll
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.pdb
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csprojAssemblyReference.cache
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csproj.CoreCompileInputs.cache
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfoInputs.cache
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfo.cs
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.dll
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.pdb
+G:\Coding\С#\С#2\ConsoleApp22\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.genruntimeconfig.cache
